@@ -1,0 +1,62 @@
+// Bootstrap Scss //
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import '~font-awesome/css/font-awesome.min.css';
+// ico icon
+@import './vendors/icofont.scss';
+
+// to-do
+@import 'vendors/todo.scss';
+
+// Scrollable
+@import 'react-perfect-scrollbar/dist/css/styles.css';
+
+// simplebar
+@import 'simplebar-react/dist/simplebar.min.css';
+
+// Flag icon
+@import './vendors/flag-icon.scss';
+
+// WeatherIcons
+@import './vendors/whether-icon.scss';
+
+// flagIcons
+@import "~flag-icons/css/flag-icons.min.css";
+
+//  Timeline
+@import '~react-vertical-timeline-component/style.min.css';
+
+// Carousel
+@import "react-responsive-carousel/lib/styles/carousel.min.css";
+
+// Typeahead  page
+@import 'react-bootstrap-typeahead/css/Typeahead.css';
+
+// Themefiy Awesome
+@import './vendors/themify.scss';
+@import "react-responsive-carousel/lib/styles/carousel.min.css";
+
+// Slick Slider Scss //
+@import "~slick-carousel/slick/slick.css"; 
+@import "~slick-carousel/slick/slick-theme.css";
+
+// Calendar
+@import 'react-calendar/dist/Calendar.css';
+
+// ReactToastify
+@import '~react-toastify/dist/ReactToastify.css';
+
+// react date-piker
+@import "react-datepicker/dist/react-datepicker.css";
+
+// Photo Swipe Gallery
+@import 'photoswipe/dist/photoswipe.css';
+
+// Dropzone
+@import '~react-dropzone-uploader/dist/styles.css';
+@import 'filepond/dist/filepond.min.css';
+
+// Style Scss //
+@import './style.scss';
+
+// Responsive Scss //
+@import './responsive.scss';

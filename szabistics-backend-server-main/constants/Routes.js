@@ -1,0 +1,20 @@
+const version = "v1";
+module.exports = {
+  USER: `/${version}/user`,
+  USER_AUTH: `/${version}/auth/user`,
+  EMAIL: `/${version}/email`,
+  DRIVER: `/${version}/driver`,
+  OWNER: `/${version}/owner`,
+  MAIN_BID: `/${version}/bid`,
+  PACKAGE: `/${version}/package`,
+  USER_RESET_PASSWORD: `/${version}/user/reset-password`,
+  ORDER: `/${version}/order`,
+  CHAT: `/${version}/chat`,
+  ADMIN: `/${version}/admin`,
+  SUB_BID: `/bid`,
+  PAYMENT_EVIDENCE_MAIN: `/${version}/payment-evidence`,
+  PAYMENT_EVIDENCE_SUB: `/payment-evidence`,
+  MILESTONE_SUB: `/milestone`,
+  FEEDBACK: `/${version}/feedback`,
+  VERIFICATION: `/${version}/verification`,
+};

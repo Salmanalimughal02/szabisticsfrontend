@@ -1,0 +1,10 @@
+/* App.css */
+.otp-input {
+    width: 40px !important; /* Set the desired width */
+    height: 40px; /* Set the desired height */
+    font-size: 25px;
+    color: black; /* Set the desired font size */
+    margin: 0 10px; /* Add margin if needed */
+    /* background-color: blue; */
+  }
+  
